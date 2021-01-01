@@ -19,7 +19,7 @@ Navigate to the installation directory.  NOTE: Running the program from another 
 
 Open terminal window and type:
 ```bash
-pywebcopy
+pywebdownloader
 ```
 
 Copy & Paste the webpage URL.
